@@ -5,3 +5,6 @@ Tableau Dashboard to represent Global Library Data Management
 3. Represented data on the map using color codes to show the countries included in a continent.
 4. Created KPIs to show the total expenditure, number of librarians, number of users and number of volumes available in the libraries.
 5. Created filters on the dashboard to get the details about a particular continent or a single country or multiple countries over the globe.  
+Use the following website to view the Dashboard on Tableau -
+
+https://public.tableau.com/shared/KHP7SWSHH?:display_count=y&:origin=viz_share_link
