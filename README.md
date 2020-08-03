@@ -7,4 +7,4 @@ Tableau Dashboard to represent Global Library Data Management
 5. Created filters on the dashboard to get the details about a particular continent or a single country or multiple countries over the globe.  
 Use the following website to view the Dashboard on Tableau -
 
-https://public.tableau.com/shared/KHP7SWSHH?:display_count=y&:origin=viz_share_link
+https://public.tableau.com/views/GlobalLibraryData_15880141825910/Dashboard?:language=en&:display_count=y&:origin=viz_share_link
